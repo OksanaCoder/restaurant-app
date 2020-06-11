@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <>
         <Router>
-          <NavBar title="Strivestaurant" />
+          <NavBar/>
           <Route path="/" exact component={Home} />
           <Route path="/menu" exact component={Menu} />
           <Route path="/reservation" exact component={Reservations} />
