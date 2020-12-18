@@ -15,7 +15,7 @@ class Home extends Component {
       <Container>
         <Row className="justify-content-center mt-3">
           <Col xs={6}>
-            <h1>Welcome to Strivestaurant!</h1>
+            <h1>Welcome to STRIVESTAURANT!</h1>
             <p className="lead">The best dishes you can find on the web!</p>
             <hr className="my-2" />
             <p>Come and visit us, we can only cook Pasta!</p>

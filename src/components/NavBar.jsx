@@ -15,7 +15,7 @@ class NavBar extends Component {
         <Navbar collapseOnSelect expand="md" bg="dark" variant="dark">
           <Link to="/">
             <Navbar.Brand>
-              {this.title} Striving For Food
+              {this.title} STRIVESTAURANT  
             </Navbar.Brand>
           </Link>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
